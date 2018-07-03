@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Jacob Bullock"]
   spec.email         = ["jacob.bullock@gmail.com"]
 
-  spec.summary       = %q{Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{Write a longer description or delete this line.}
-  spec.homepage      = "http://onco.re"
+  spec.summary       = "Helper methods for interacting with Digital Ocean Spaces api"
+  spec.description   = "Helper methods for interacting with Digital Ocean Spaces api"
+  spec.homepage      = "https://github.com/oncore-education/digitalocean_spaces_api"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
